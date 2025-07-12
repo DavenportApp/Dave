@@ -91,7 +91,7 @@ def job_setup_section(material_data, sfm_guidelines):
         burr_collect = st.text_input("Burr Collect", value="9/32 or 19/64 RD", key="setup_burr_collect")
     with col2:
         material_key = next((k for k, v in sfm_guidelines.items() if v["material_name"].lower() == material.lower()), "Brass")
-        sfm_default = material_data[material].get("sfm", 150)
+        sfm_default = material_data.get(material, {}).get("sfm", 150)
         sfm = st.number_input("Surface Feet per Minute (SFM)", value=sfm_default, step=5, key="setup_sfm")
         rpm = st.number_input("Machine RPM", min_value=100, max_value=6000, value=3300, step=100, key="setup_rpm")
         bar_len = st.number_input("Bar Length (in)", value=144.0, step=1.0, format="%.3f", key="setup_bar_len")
@@ -104,7 +104,27 @@ def job_setup_section(material_data, sfm_guidelines):
     usable_bar_len = bar_len - remnant
     per_part_len = part_length + cutoff + faceoff
     parts_per_bar = usable_bar_len / per_part_len if per_part_len > 0 else 0
-    bar_weight = usable_bar_len * material_data[material].get("density", 0.307)
+
+    # Improved bar weight calculation
+    density = material_data.get(material, {}).get("density", 0.307)
+    if bar_shape == "Round":
+        radius = dia / 2
+        cross_section_area = math.pi * (radius ** 2)
+    elif bar_shape == "Hex":
+        radius = dia / 2
+        cross_section_area = (3 * math.sqrt(3) / 2) * (radius ** 2)
+    elif bar_shape == "Square":
+        cross_section_area = dia * dia
+    elif bar_shape == "Tube":
+        wall_thickness = st.number_input("Tube Wall Thickness (in)", min_value=0.001, max_value=dia/2, value=0.035, step=0.001, format="%.3f", key="setup_wall_thickness")
+        outer_radius = dia / 2
+        inner_radius = outer_radius - wall_thickness
+        cross_section_area = math.pi * (outer_radius ** 2 - inner_radius ** 2)
+    else:  # Special or unknown
+        cross_section_area = dia * dia  # Fallback to square
+
+    bar_weight = usable_bar_len * cross_section_area * density
+
     st.markdown(f"📏 Usable Bar Length: **{usable_bar_len:.3f} in**")
     st.markdown(f"🧮 Estimated Parts per Bar: **{parts_per_bar:.2f}**")
     st.markdown(f"⚖️ Usable Bar Weight: **{bar_weight:.2f} lbs**")
