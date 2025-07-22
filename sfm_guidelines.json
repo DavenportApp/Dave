@@ -1,0 +1,92 @@
+{
+  "12L14": {
+    "material_name": "12L14 Steel",
+    "drill": { "HSS": [90, 130], "Carbide": [800, 820] },
+    "reamer": { "HSS": [60, 85], "Carbide": [700, 750] },
+    "cutoff": { "HSS": [100, 130], "Carbide": [800, 900] },
+    "form_tool": { "HSS": [70, 100], "Carbide": [600, 800] },
+    "skive_tool": { "HSS": [60, 90], "Carbide": [500, 700] }
+  },
+  "1018": {
+    "material_name": "1018 Steel",
+    "drill": { "HSS": [70, 90], "Carbide": [600, 750] },
+    "reamer": { "HSS": [50, 70], "Carbide": [500, 600] },
+    "cutoff": { "HSS": [80, 100], "Carbide": [600, 700] },
+    "form_tool": { "HSS": [60, 80], "Carbide": [550, 650] },
+    "skive_tool": { "HSS": [60, 75], "Carbide": [500, 600] }
+  },
+  "2024": {
+    "material_name": "2024 Aluminum",
+    "drill": { "HSS": [275, 350], "Carbide": [900, 1200] },
+    "reamer": { "HSS": [250, 300], "Carbide": [850, 1000] },
+    "cutoff": { "HSS": [350, 450], "Carbide": [950, 1200] },
+    "form_tool": { "HSS": [350, 450], "Carbide": [1100, 1300] },
+    "skive_tool": { "HSS": [325, 400], "Carbide": [950, 1150] }
+  },
+  "303": {
+    "material_name": "303 Stainless",
+    "drill": { "HSS": [50, 70], "Carbide": [400, 500] },
+    "reamer": { "HSS": [45, 65], "Carbide": [375, 450] },
+    "cutoff": { "HSS": [60, 80], "Carbide": [450, 550] },
+    "form_tool": { "HSS": [50, 75], "Carbide": [425, 500] },
+    "skive_tool": { "HSS": [45, 65], "Carbide": [400, 475] }
+  },
+  "316": {
+    "material_name": "316 Stainless",
+    "drill": { "HSS": [30, 60], "Carbide": [300, 400] },
+    "reamer": { "HSS": [25, 50], "Carbide": [275, 375] },
+    "cutoff": { "HSS": [40, 70], "Carbide": [350, 450] },
+    "form_tool": { "HSS": [35, 60], "Carbide": [325, 425] },
+    "skive_tool": { "HSS": [30, 55], "Carbide": [300, 400] }
+  },
+  "4140": {
+    "material_name": "4140 Steel",
+    "drill": { "HSS": [60, 80], "Carbide": [400, 500] },
+    "reamer": { "HSS": [40, 60], "Carbide": [350, 450] },
+    "cutoff": { "HSS": [60, 90], "Carbide": [400, 500] },
+    "form_tool": { "HSS": [55, 75], "Carbide": [350, 450] },
+    "skive_tool": { "HSS": [50, 70], "Carbide": [325, 425] }
+  },
+  "5052": {
+    "material_name": "5052 Aluminum",
+    "drill": { "HSS": [300, 375], "Carbide": [950, 1300] },
+    "reamer": { "HSS": [275, 325], "Carbide": [900, 1200] },
+    "cutoff": { "HSS": [375, 475], "Carbide": [1000, 1300] },
+    "form_tool": { "HSS": [375, 475], "Carbide": [1150, 1350] },
+    "skive_tool": { "HSS": [325, 425], "Carbide": [950, 1150] }
+  },
+  "6061": {
+    "material_name": "6061 Aluminum",
+    "drill": { "HSS": [300, 400], "Carbide": [1000, 1500] },
+    "reamer": { "HSS": [275, 375], "Carbide": [950, 1450] },
+    "cutoff": { "HSS": [400, 500], "Carbide": [1000, 1500] },
+    "form_tool": { "HSS": [400, 500], "Carbide": [1200, 1400] },
+    "skive_tool": { "HSS": [350, 450], "Carbide": [1000, 1200] }
+  },
+  "7075": {
+    "material_name": "7075 Aluminum",
+    "drill": { "HSS": [275, 350], "Carbide": [900, 1200] },
+    "reamer": { "HSS": [250, 300], "Carbide": [850, 1000] },
+    "cutoff": { "HSS": [350, 450], "Carbide": [950, 1200] },
+    "form_tool": { "HSS": [350, 450], "Carbide": [1100, 1300] },
+    "skive_tool": { "HSS": [325, 400], "Carbide": [950, 1150] }
+  },
+  "Brass": {
+    "material_name": "C360 Brass",
+    "drill": { "HSS": [160, 175], "Carbide": [300, 350] },
+    "reamer": { "HSS": [160, 175], "Carbide": [300, 350] },
+    "cutoff": { "HSS": [200, 250], "Carbide": [350, 400] },
+    "form_tool": { "HSS": [200, 250], "Carbide": [375, 425] },
+    "skive_tool": { "HSS": [175, 200], "Carbide": [300, 350] }
+  },
+  "C110": {
+    "material_name": "C110 Copper",
+    "drill": { "HSS": [180, 220], "Carbide": [350, 400] },
+    "reamer": { "HSS": [160, 200], "Carbide": [325, 375] },
+    "cutoff": { "HSS": [200, 250], "Carbide": [375, 450] },
+    "form_tool": { "HSS": [200, 250], "Carbide": [400, 450] },
+    "skive_tool": { "HSS": [175, 225], "Carbide": [350, 425] }
+  }
+}
+
+
