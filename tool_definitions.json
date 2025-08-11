@@ -1,0 +1,135 @@
+{
+  "BOXTOOL": {
+    "type": "TURNING",
+    "feed_range": [0.0005, 0.020],
+    "sfm_modifier": 1.0,
+    "approach_default": 0.050,
+    "description": "General purpose turning tool"
+  },
+  "BROACH": {
+    "type": "TURNING", 
+    "feed_range": [0.0001, 0.005],
+    "sfm_modifier": 0.5,
+    "approach_default": 0.100,
+    "description": "Internal broaching tool"
+  },
+  "CENTER": {
+    "type": "TURNING",
+    "feed_range": [0.0005, 0.010],
+    "sfm_modifier": 0.8,
+    "approach_default": 0.025,
+    "description": "Center drill"
+  },
+  "COUNTERBORE": {
+    "type": "TURNING",
+    "feed_range": [0.0005, 0.015],
+    "sfm_modifier": 0.9,
+    "approach_default": 0.050,
+    "description": "Counterbore tool"
+  },
+  "DRILL": {
+    "type": "TURNING",
+    "feed_range": [0.0005, 0.025],
+    "sfm_modifier": 1.0,
+    "approach_default": 0.050,
+    "description": "Twist drill"
+  },
+  "HOLLOW MILL": {
+    "type": "TURNING",
+    "feed_range": [0.0005, 0.020],
+    "sfm_modifier": 1.2,
+    "approach_default": 0.050,
+    "description": "Hollow mill cutter"
+  },
+  "REAMER": {
+    "type": "TURNING",
+    "feed_range": [0.0010, 0.030],
+    "sfm_modifier": 0.7,
+    "approach_default": 0.050,
+    "description": "Reaming tool"
+  },
+  "TAP": {
+    "type": "TURNING",
+    "feed_range": [0.0001, 0.010],
+    "sfm_modifier": 0.3,
+    "approach_default": 0.100,
+    "description": "Tapping tool"
+  },
+  "DIE HEAD": {
+    "type": "TURNING",
+    "feed_range": [0.0001, 0.010],
+    "sfm_modifier": 0.3,
+    "approach_default": 0.100,
+    "description": "Die head threading tool"
+  },
+  "TRIPAN": {
+    "type": "TURNING",
+    "feed_range": [0.0005, 0.015],
+    "sfm_modifier": 1.1,
+    "approach_default": 0.050,
+    "description": "Three-flute end mill"
+  },
+  "CROSS DRILL": {
+    "type": "FORM",
+    "feed_range": [0.0005, 0.020],
+    "sfm_modifier": 0.9,
+    "approach_default": 0.050,
+    "description": "Cross drilling operation"
+  },
+  "CROSS TAP": {
+    "type": "FORM",
+    "feed_range": [0.0001, 0.008],
+    "sfm_modifier": 0.3,
+    "approach_default": 0.100,
+    "description": "Cross tapping operation"
+  },
+  "CUTOFF": {
+    "type": "FORM",
+    "feed_range": [0.0001, 0.005],
+    "sfm_modifier": 0.8,
+    "approach_default": 0.010,
+    "description": "Cutoff/parting tool"
+  },
+  "FORM TOOL": {
+    "type": "FORM",
+    "feed_range": [0.0001, 0.010],
+    "sfm_modifier": 0.7,
+    "approach_default": 0.025,
+    "description": "Custom form tool"
+  },
+  "KNURL": {
+    "type": "FORM",
+    "feed_range": [0.0005, 0.015],
+    "sfm_modifier": 0.6,
+    "approach_default": 0.025,
+    "description": "Knurling tool"
+  },
+  "ROLL STAMP": {
+    "type": "FORM",
+    "feed_range": [0.0001, 0.005],
+    "sfm_modifier": 0.5,
+    "approach_default": 0.010,
+    "description": "Roll stamping tool"
+  },
+  "SHAVE": {
+    "type": "FORM",
+    "feed_range": [0.0005, 0.015],
+    "sfm_modifier": 1.0,
+    "approach_default": 0.025,
+    "description": "Shaving tool"
+  },
+  "SKIVE": {
+    "type": "FORM",
+    "feed_range": [0.0005, 0.020],
+    "sfm_modifier": 1.1,
+    "approach_default": 0.025,
+    "description": "Skiving tool"
+  },
+  "THREAD ROLL": {
+    "type": "FORM",
+    "feed_range": [0.0001, 0.008],
+    "sfm_modifier": 0.4,
+    "approach_default": 0.050,
+    "description": "Thread rolling tool"
+  }
+}

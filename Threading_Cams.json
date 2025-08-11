@@ -1,0 +1,150 @@
+{
+  "6:1_Threading_Cams": [
+    {
+      "cam_number": 1,
+      "rise": 0.118,
+      "rise_range": "0-32.5",
+      "drop": 0.137,
+      "drop_range": "32.5-50",
+      "part_number": "5-C-118"
+    },
+    {
+      "cam_number": 2,
+      "rise": 0.200,
+      "rise_range": "0-32.5",
+      "drop": 0.232,
+      "drop_range": "32.5-50",
+      "part_number": "5-C-98"
+    },
+    {
+      "cam_number": 3,
+      "rise": 0.317,
+      "rise_range": "0-32.5",
+      "drop": 0.366,
+      "drop_range": "32.5-50",
+      "part_number": "5-C-100"
+    },
+    {
+      "cam_number": 4,
+      "rise": 0.452,
+      "rise_range": "0-32.5",
+      "drop": 0.540,
+      "drop_range": "32.5-50",
+      "part_number": "5-C-102"
+    },
+    {
+      "cam_number": 5,
+      "rise": 0.715,
+      "rise_range": "0-32.5",
+      "drop": 0.825,
+      "drop_range": "32.5-50",
+      "part_number": "5-C-104"
+    },
+    {
+      "cam_number": 6,
+      "rise": 1.140,
+      "rise_range": "0-32.5",
+      "drop": 1.320,
+      "drop_range": "32.5-50",
+      "part_number": "5-C-106"
+    },
+    {
+      "cam_number": 7,
+      "rise": 2.000,
+      "rise_range": "0-32.5",
+      "drop": 2.100,
+      "drop_range": "32.5-50",
+      "part_number": "5-C-108"
+    },
+    {
+      "cam_number": 8,
+      "rise": 2.000,
+      "rise_range": "8.5-32.5",
+      "drop": 2.000,
+      "drop_range": "32.5-43.25",
+      "part_number": "5-C-110"
+    },
+    {
+      "cam_number": 9,
+      "rise": 0.000,
+      "rise_range": "16.5-32.5",
+      "drop": 20.000,
+      "drop_range": "32.5-39.5",
+      "part_number": "5-C-112"
+    },
+    {
+      "cam_number": 10,
+      "rise": 2.000,
+      "rise_range": "22.5-32.5",
+      "drop": 2.000,
+      "drop_range": "32.5-.7",
+      "part_number": "5-C-114"
+    }
+  ],
+  "2:1_Threading_Cams": [
+    {
+      "cam_number": 1,
+      "rise": 0.238,
+      "rise_range": "0-25",
+      "drop": 0.276,
+      "drop_range": "25-50",
+      "part_number": "5-C-82"
+    },
+    {
+      "cam_number": 2,
+      "rise": 0.389,
+      "rise_range": "0-25",
+      "drop": 0.450,
+      "drop_range": "25-50",
+      "part_number": "5-C-84"
+    },
+    {
+      "cam_number": 3,
+      "rise": 0.56,
+      "rise_range": "0-25",
+      "drop": 0.657,
+      "drop_range": "25-50",
+      "part_number": "5-C-86"
+    },
+    {
+      "cam_number": 4,
+      "rise": 0.675,
+      "rise_range": "0-25",
+      "drop": 0.782,
+      "drop_range": "25-50",
+      "part_number": "5-C-88"
+    },
+    {
+      "cam_number": 5,
+      "rise": 1.095,
+      "rise_range": "0-25",
+      "drop": 1.265,
+      "drop_range": "25-50",
+      "part_number": "5-C-90"
+    },
+    {
+      "cam_number": 6,
+      "rise": 1.525,
+      "rise_range": "0-25",
+      "drop": 1.770,
+      "drop_range": "25-50",
+      "part_number": "5-C-92"
+    },
+    {
+      "cam_number": 7,
+      "rise": 2.000,
+      "rise_range": "0-25",
+      "drop": 2.000,
+      "drop_range": "25-42.5",
+      "part_number": "5-C-94"
+    },
+    {
+      "cam_number": 8,
+      "rise": 2.000,
+      "rise_range": "12-25",
+      "drop": 2.000,
+      "drop_range": "25-37",
+      "part_number": "5-C-80"
+    }
+  ]
+}

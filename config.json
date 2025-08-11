@@ -1,0 +1,25 @@
+{
+  "block_setting_ranges": {
+    "1": [0.8, 1.2],
+    "2": [0.8, 1.2],
+    "3": [0.9, 1.0],
+    "4": [0.8, 2.5],
+    "5": [0.8, 1.2]
+  },
+  "threading_tools": [
+    "TAP", 
+    "DIE HEAD", 
+    "THREAD ROLL", 
+    "CROSS TAP", 
+    "CROSS THREAD ROLL"
+  ],
+  "default_tools_end": [
+    "BOXTOOL", "BROACH", "CENTER", "COUNTERBORE", "CUSTOM", 
+    "DEIHEAD", "DIE HEAD", "DRILL", "HOLLOW MILL", "REAMER", 
+    "TAP", "TRIPAN"
+  ],
+  "default_tools_side": [
+    "CROSS DRILL", "CROSS TAP", "CUTOFF", "CUSTOM", "FORM TOOL", 
+    "KNURL", "ROLL STAMP", "SHAVE", "SKIVE", "THREAD ROLL"
+  ]
+}
