@@ -1,0 +1,659 @@
+{
+  "unc_unf_threads": [
+    {
+      "thread": "#0-80",
+      "tap_drill": "3/64",
+      "tap_drill_decimal": 0.0469,
+      "tap_drill_mm": 1.19,
+      "tpi": 80,
+      "pitch_inches": 0.0125,
+      "pitch_mm": 0.318,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "#1-64",
+      "tap_drill": "#53",
+      "tap_drill_decimal": 0.0595,
+      "tap_drill_mm": 1.51,
+      "tpi": 64,
+      "pitch_inches": 0.0156,
+      "pitch_mm": 0.397,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "#1-72",
+      "tap_drill": "#53",
+      "tap_drill_decimal": 0.0595,
+      "tap_drill_mm": 1.51,
+      "tpi": 72,
+      "pitch_inches": 0.0139,
+      "pitch_mm": 0.353,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "#2-56",
+      "tap_drill": "#50",
+      "tap_drill_decimal": 0.070,
+      "tap_drill_mm": 1.78,
+      "tpi": 56,
+      "pitch_inches": 0.0179,
+      "pitch_mm": 0.454,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "#2-64",
+      "tap_drill": "#50",
+      "tap_drill_decimal": 0.070,
+      "tap_drill_mm": 1.78,
+      "tpi": 64,
+      "pitch_inches": 0.0156,
+      "pitch_mm": 0.397,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "#3-48",
+      "tap_drill": "#47",
+      "tap_drill_decimal": 0.0785,
+      "tap_drill_mm": 1.99,
+      "tpi": 48,
+      "pitch_inches": 0.0208,
+      "pitch_mm": 0.529,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "#3-56",
+      "tap_drill": "#45",
+      "tap_drill_decimal": 0.082,
+      "tap_drill_mm": 2.08,
+      "tpi": 56,
+      "pitch_inches": 0.0179,
+      "pitch_mm": 0.454,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "#4-40",
+      "tap_drill": "#43",
+      "tap_drill_decimal": 0.089,
+      "tap_drill_mm": 2.26,
+      "tpi": 40,
+      "pitch_inches": 0.025,
+      "pitch_mm": 0.635,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "#4-48",
+      "tap_drill": "#42",
+      "tap_drill_decimal": 0.0935,
+      "tap_drill_mm": 2.38,
+      "tpi": 48,
+      "pitch_inches": 0.0208,
+      "pitch_mm": 0.529,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "#5-40",
+      "tap_drill": "#38",
+      "tap_drill_decimal": 0.1015,
+      "tap_drill_mm": 2.58,
+      "tpi": 40,
+      "pitch_inches": 0.025,
+      "pitch_mm": 0.635,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "#5-44",
+      "tap_drill": "#37",
+      "tap_drill_decimal": 0.104,
+      "tap_drill_mm": 2.64,
+      "tpi": 44,
+      "pitch_inches": 0.0227,
+      "pitch_mm": 0.577,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "#6-32",
+      "tap_drill": "#36",
+      "tap_drill_decimal": 0.1065,
+      "tap_drill_mm": 2.71,
+      "tpi": 32,
+      "pitch_inches": 0.03125,
+      "pitch_mm": 0.794,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "#6-40",
+      "tap_drill": "#33",
+      "tap_drill_decimal": 0.113,
+      "tap_drill_mm": 2.87,
+      "tpi": 40,
+      "pitch_inches": 0.025,
+      "pitch_mm": 0.635,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "#8-32",
+      "tap_drill": "#29",
+      "tap_drill_decimal": 0.136,
+      "tap_drill_mm": 3.45,
+      "tpi": 32,
+      "pitch_inches": 0.03125,
+      "pitch_mm": 0.794,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "#8-36",
+      "tap_drill": "#29",
+      "tap_drill_decimal": 0.136,
+      "tap_drill_mm": 3.45,
+      "tpi": 36,
+      "pitch_inches": 0.0278,
+      "pitch_mm": 0.706,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "#10-24",
+      "tap_drill": "#25",
+      "tap_drill_decimal": 0.1495,
+      "tap_drill_mm": 3.80,
+      "tpi": 24,
+      "pitch_inches": 0.0417,
+      "pitch_mm": 1.058,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "#10-32",
+      "tap_drill": "#21",
+      "tap_drill_decimal": 0.159,
+      "tap_drill_mm": 4.04,
+      "tpi": 32,
+      "pitch_inches": 0.03125,
+      "pitch_mm": 0.794,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "#12-24",
+      "tap_drill": "#16",
+      "tap_drill_decimal": 0.177,
+      "tap_drill_mm": 4.50,
+      "tpi": 24,
+      "pitch_inches": 0.0417,
+      "pitch_mm": 1.058,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "#12-28",
+      "tap_drill": "#14",
+      "tap_drill_decimal": 0.182,
+      "tap_drill_mm": 4.62,
+      "tpi": 28,
+      "pitch_inches": 0.0357,
+      "pitch_mm": 0.907,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "1/4-20",
+      "tap_drill": "#7",
+      "tap_drill_decimal": 0.201,
+      "tap_drill_mm": 5.11,
+      "tpi": 20,
+      "pitch_inches": 0.05,
+      "pitch_mm": 1.27,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "1/4-28",
+      "tap_drill": "#3",
+      "tap_drill_decimal": 0.213,
+      "tap_drill_mm": 5.41,
+      "tpi": 28,
+      "pitch_inches": 0.0357,
+      "pitch_mm": 0.907,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "5/16-18",
+      "tap_drill": "F",
+      "tap_drill_decimal": 0.257,
+      "tap_drill_mm": 6.53,
+      "tpi": 18,
+      "pitch_inches": 0.0556,
+      "pitch_mm": 1.411,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "5/16-24",
+      "tap_drill": "I",
+      "tap_drill_decimal": 0.272,
+      "tap_drill_mm": 6.91,
+      "tpi": 24,
+      "pitch_inches": 0.0417,
+      "pitch_mm": 1.058,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "3/8-16",
+      "tap_drill": "5/16",
+      "tap_drill_decimal": 0.3125,
+      "tap_drill_mm": 7.94,
+      "tpi": 16,
+      "pitch_inches": 0.0625,
+      "pitch_mm": 1.588,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "3/8-24",
+      "tap_drill": "Q",
+      "tap_drill_decimal": 0.332,
+      "tap_drill_mm": 8.43,
+      "tpi": 24,
+      "pitch_inches": 0.0417,
+      "pitch_mm": 1.058,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "7/16-14",
+      "tap_drill": "U",
+      "tap_drill_decimal": 0.368,
+      "tap_drill_mm": 9.35,
+      "tpi": 14,
+      "pitch_inches": 0.0714,
+      "pitch_mm": 1.814,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "7/16-20",
+      "tap_drill": "25/64",
+      "tap_drill_decimal": 0.391,
+      "tap_drill_mm": 9.92,
+      "tpi": 20,
+      "pitch_inches": 0.05,
+      "pitch_mm": 1.27,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    },
+    {
+      "thread": "1/2-13",
+      "tap_drill": "27/64",
+      "tap_drill_decimal": 0.422,
+      "tap_drill_mm": 10.72,
+      "tpi": 13,
+      "pitch_inches": 0.0769,
+      "pitch_mm": 1.954,
+      "category": "unc_unf",
+      "thread_type": "UNC"
+    },
+    {
+      "thread": "1/2-20",
+      "tap_drill": "29/64",
+      "tap_drill_decimal": 0.453,
+      "tap_drill_mm": 11.51,
+      "tpi": 20,
+      "pitch_inches": 0.05,
+      "pitch_mm": 1.27,
+      "category": "unc_unf",
+      "thread_type": "UNF"
+    }
+  ],
+  "metric_threads": [
+    {
+      "thread": "M1.6x0.35",
+      "tap_drill": "1.25mm",
+      "tap_drill_decimal": 0.0492,
+      "tap_drill_mm": 1.25,
+      "pitch": 0.35,
+      "major_diameter": 1.6,
+      "category": "metric"
+    },
+    {
+      "thread": "M2x0.4",
+      "tap_drill": "1.6mm",
+      "tap_drill_decimal": 0.0630,
+      "tap_drill_mm": 1.60,
+      "pitch": 0.4,
+      "major_diameter": 2.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M2.5x0.45",
+      "tap_drill": "2.05mm",
+      "tap_drill_decimal": 0.0807,
+      "tap_drill_mm": 2.05,
+      "pitch": 0.45,
+      "major_diameter": 2.5,
+      "category": "metric"
+    },
+    {
+      "thread": "M3x0.5",
+      "tap_drill": "2.5mm",
+      "tap_drill_decimal": 0.0984,
+      "tap_drill_mm": 2.50,
+      "pitch": 0.5,
+      "major_diameter": 3.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M3.5x0.6",
+      "tap_drill": "2.9mm",
+      "tap_drill_decimal": 0.1142,
+      "tap_drill_mm": 2.90,
+      "pitch": 0.6,
+      "major_diameter": 3.5,
+      "category": "metric"
+    },
+    {
+      "thread": "M4x0.7",
+      "tap_drill": "3.3mm",
+      "tap_drill_decimal": 0.1299,
+      "tap_drill_mm": 3.30,
+      "pitch": 0.7,
+      "major_diameter": 4.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M5x0.8",
+      "tap_drill": "4.2mm",
+      "tap_drill_decimal": 0.1654,
+      "tap_drill_mm": 4.20,
+      "pitch": 0.8,
+      "major_diameter": 5.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M6x1.0",
+      "tap_drill": "5.0mm",
+      "tap_drill_decimal": 0.1969,
+      "tap_drill_mm": 5.00,
+      "pitch": 1.0,
+      "major_diameter": 6.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M7x1.0",
+      "tap_drill": "6.0mm",
+      "tap_drill_decimal": 0.2362,
+      "tap_drill_mm": 6.00,
+      "pitch": 1.0,
+      "major_diameter": 7.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M8x1.25",
+      "tap_drill": "6.8mm",
+      "tap_drill_decimal": 0.2677,
+      "tap_drill_mm": 6.80,
+      "pitch": 1.25,
+      "major_diameter": 8.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M8x1.0",
+      "tap_drill": "7.0mm",
+      "tap_drill_decimal": 0.2756,
+      "tap_drill_mm": 7.00,
+      "pitch": 1.0,
+      "major_diameter": 8.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M10x1.5",
+      "tap_drill": "8.5mm",
+      "tap_drill_decimal": 0.3346,
+      "tap_drill_mm": 8.50,
+      "pitch": 1.5,
+      "major_diameter": 10.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M10x1.25",
+      "tap_drill": "8.75mm",
+      "tap_drill_decimal": 0.3445,
+      "tap_drill_mm": 8.75,
+      "pitch": 1.25,
+      "major_diameter": 10.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M12x1.75",
+      "tap_drill": "10.2mm",
+      "tap_drill_decimal": 0.4016,
+      "tap_drill_mm": 10.20,
+      "pitch": 1.75,
+      "major_diameter": 12.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M12x1.25",
+      "tap_drill": "10.75mm",
+      "tap_drill_decimal": 0.4232,
+      "tap_drill_mm": 10.75,
+      "pitch": 1.25,
+      "major_diameter": 12.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M14x2.0",
+      "tap_drill": "12.0mm",
+      "tap_drill_decimal": 0.4724,
+      "tap_drill_mm": 12.00,
+      "pitch": 2.0,
+      "major_diameter": 14.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M16x2.0",
+      "tap_drill": "14.0mm",
+      "tap_drill_decimal": 0.5512,
+      "tap_drill_mm": 14.00,
+      "pitch": 2.0,
+      "major_diameter": 16.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M20x2.5",
+      "tap_drill": "17.5mm",
+      "tap_drill_decimal": 0.6890,
+      "tap_drill_mm": 17.50,
+      "pitch": 2.5,
+      "major_diameter": 20.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M24x3.0",
+      "tap_drill": "21.0mm",
+      "tap_drill_decimal": 0.8268,
+      "tap_drill_mm": 21.00,
+      "pitch": 3.0,
+      "major_diameter": 24.0,
+      "category": "metric"
+    },
+    {
+      "thread": "M30x3.5",
+      "tap_drill": "26.5mm",
+      "tap_drill_decimal": 1.0433,
+      "tap_drill_mm": 26.50,
+      "pitch": 3.5,
+      "major_diameter": 30.0,
+      "category": "metric"
+    }
+  ],
+  "pipe_threads": {
+    "npt": [
+      {
+        "thread": "1/16-27",
+        "tap_drill": "R",
+        "tap_drill_decimal": 0.339,
+        "tap_drill_mm": 8.611,
+        "tpi": 27,
+        "category": "npt",
+        "thread_type": "tapered"
+      },
+      {
+        "thread": "1/8-27",
+        "tap_drill": "R",
+        "tap_drill_decimal": 0.339,
+        "tap_drill_mm": 8.611,
+        "tpi": 27,
+        "category": "npt",
+        "thread_type": "tapered"
+      },
+      {
+        "thread": "1/4-18",
+        "tap_drill": "7/16",
+        "tap_drill_decimal": 0.4375,
+        "tap_drill_mm": 11.113,
+        "tpi": 18,
+        "category": "npt",
+        "thread_type": "tapered"
+      },
+      {
+        "thread": "3/8-18",
+        "tap_drill": "37/64",
+        "tap_drill_decimal": 0.578,
+        "tap_drill_mm": 14.68,
+        "tpi": 18,
+        "category": "npt",
+        "thread_type": "tapered"
+      },
+      {
+        "thread": "1/2-14",
+        "tap_drill": "23/32",
+        "tap_drill_decimal": 0.719,
+        "tap_drill_mm": 18.26,
+        "tpi": 14,
+        "category": "npt",
+        "thread_type": "tapered"
+      },
+      {
+        "thread": "3/4-14",
+        "tap_drill": "59/64",
+        "tap_drill_decimal": 0.922,
+        "tap_drill_mm": 23.42,
+        "tpi": 14,
+        "category": "npt",
+        "thread_type": "tapered"
+      },
+      {
+        "thread": "1-11.5",
+        "tap_drill": "1 5/32",
+        "tap_drill_decimal": 1.156,
+        "tap_drill_mm": 29.37,
+        "tpi": 11.5,
+        "category": "npt",
+        "thread_type": "tapered"
+      }
+    ],
+    "nptf": [
+      {
+        "thread": "1/16-27",
+        "tap_drill": "R",
+        "tap_drill_decimal": 0.339,
+        "tap_drill_mm": 8.611,
+        "tpi": 27,
+        "category": "nptf",
+        "thread_type": "dryseal_tapered"
+      },
+      {
+        "thread": "1/8-27",
+        "tap_drill": "R",
+        "tap_drill_decimal": 0.339,
+        "tap_drill_mm": 8.611,
+        "tpi": 27,
+        "category": "nptf",
+        "thread_type": "dryseal_tapered"
+      },
+      {
+        "thread": "1/4-18",
+        "tap_drill": "7/16",
+        "tap_drill_decimal": 0.4375,
+        "tap_drill_mm": 11.113,
+        "tpi": 18,
+        "category": "nptf",
+        "thread_type": "dryseal_tapered"
+      }
+    ],
+    "bsp": [
+      {
+        "thread": "1/8-28",
+        "tap_drill": "R",
+        "tap_drill_decimal": 0.339,
+        "tap_drill_mm": 8.611,
+        "tpi": 28,
+        "category": "bsp",
+        "thread_type": "british_standard"
+      },
+      {
+        "thread": "1/4-19",
+        "tap_drill": "7/16",
+        "tap_drill_decimal": 0.4375,
+        "tap_drill_mm": 11.113,
+        "tpi": 19,
+        "category": "bsp",
+        "thread_type": "british_standard"
+      },
+      {
+        "thread": "3/8-19",
+        "tap_drill": "19/32",
+        "tap_drill_decimal": 0.594,
+        "tap_drill_mm": 15.08,
+        "tpi": 19,
+        "category": "bsp",
+        "thread_type": "british_standard"
+      }
+    ]
+  },
+  "threading_speed_guidelines": {
+    "materials": [
+      {
+        "material": "Mild Steel",
+        "surface_speed_sfm": "50-80",
+        "notes": "Standard threading"
+      },
+      {
+        "material": "Stainless Steel",
+        "surface_speed_sfm": "30-50",
+        "notes": "Use cutting fluid"
+      },
+      {
+        "material": "Aluminum",
+        "surface_speed_sfm": "100-200",
+        "notes": "Sharp tools required"
+      },
+      {
+        "material": "Brass",
+        "surface_speed_sfm": "80-120",
+        "notes": "Good chip evacuation"
+      },
+      {
+        "material": "Cast Iron",
+        "surface_speed_sfm": "40-70",
+        "notes": "Dry cutting OK"
+      }
+    ]
+  }
+}
