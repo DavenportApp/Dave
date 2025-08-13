@@ -1,14 +1,14 @@
-# 🔧 Davenport CAM Assistant REV21
+# 🔧 Davenport CAM Assistant REV20
 
 **Professional CAM Programming & Production Analysis Tool for Davenport Multi-Spindle Screw Machines**
 
-![Version](https://img.shields.io/badge/version-REV21--1.0.0-blue)
+![Version](https://img.shields.io/badge/version-REV20--1.0.0-blue)
 ![Status](https://img.shields.io/badge/status-Production%20Ready-green)
 ![Manual](https://img.shields.io/badge/manual-REV21%20Compliant-orange)
 
 ## 📋 Overview
 
-The Davenport CAM Assistant REV21 is a comprehensive, professional-grade tool designed specifically for programming and optimizing Davenport multi-spindle screw machine operations. Built with REV21 Davenport manual compliance, this application provides advanced CAM programming capabilities, threading calculations, and comprehensive cost analysis.
+The Davenport CAM Assistant REV20 is a comprehensive, professional-grade tool designed specifically for programming and optimizing Davenport multi-spindle screw machine operations. Built with REV21 Davenport manual compliance, this application provides advanced CAM programming capabilities, threading calculations, and comprehensive cost analysis.
 
 ## ✨ Key Features
 
@@ -19,7 +19,7 @@ The Davenport CAM Assistant REV21 is a comprehensive, professional-grade tool de
 - Real-time cycle time analysis with critical path detection
 - Material-specific speed and feed recommendations
 
-### 🔩 **REV21 Threading Calculator**
+### 🔩 **REV20 Threading Calculator**
 - Complete Davenport REV21 manual compliance
 - Professional threading methods (6:1, 4:1, 2:1)
 - Advanced thread parameter calculations
@@ -80,7 +80,7 @@ _CAM ASSISTANT/
 │   ├── utils.py               # Utility functions and classes
 │   ├── quote_builder.py       # Quote generation and cost analysis
 │   ├── cam_operations.py      # CAM operations and spindle configuration
-│   └── threading_calculator.py # REV21 threading calculations
+│   └── threading_calculator.py # REV20 threading calculations
 └── data/                      # Data files directory
     ├── tool_libraries/        # Tool library data
     ├── materials/            # Material specifications
@@ -119,7 +119,7 @@ _CAM ASSISTANT/
 
 ## 🔧 Professional Features
 
-### **REV21 Manual Compliance**
+### **REV20 Manual Compliance**
 - Exact threading method implementations
 - Proper gear ratio calculations
 - Authentic RPM formulas and cam space specifications
@@ -226,8 +226,8 @@ _CAM ASSISTANT/
 
 ## 📝 Version History
 
-### **REV21-1.0.0 (Current)**
-- Complete REV21 Davenport manual compliance
+### **REV20-1.0.0 (Current)**
+- Complete REV20 Davenport manual compliance
 - Professional threading calculator implementation
 - Advanced CAM operations with critical path analysis
 - Comprehensive quote builder with multi-tier pricing
@@ -249,7 +249,7 @@ _CAM ASSISTANT/
 
 ## ⚖️ Legal & Compliance
 
-### **REV21 Manual Compliance**
+### **REV20 Manual Compliance**
 This application is designed to be fully compliant with Davenport REV21 manual specifications, including:
 - Exact threading method implementations
 - Proper gear ratio and RPM calculations
@@ -272,6 +272,7 @@ This software is provided as a programming aid and analysis tool. Users are resp
 
 ---
 
-**⚙️ Davenport CAM Assistant REV21 - Professional CAM Programming Made Simple**
+**⚙️ Davenport CAM Assistant REV20 - Professional CAM Programming Made Simple**
+
 
 *For technical support or feature requests, use the built-in error reporting system or contact your system administrator.*
